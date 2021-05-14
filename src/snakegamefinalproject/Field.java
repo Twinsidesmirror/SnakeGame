@@ -41,6 +41,7 @@ public class Field extends Pane{
         addFood();
         
     }
+
     
     public void update(){
         for(Block b:blocks){
